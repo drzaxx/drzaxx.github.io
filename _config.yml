@@ -26,8 +26,9 @@ author:
   avatar           : "profile01.png"
   name             : "Runze Dong"
   pronouns         : # example: "she/her"  
-  bio              : "I'my a Lecturer with the School of Information and Navigation, Air Force\
-                    EngineeringUniversity. My research interests include low-altitude intelligent networks and the uilization of AI in UAV communications."
+  bio              : >
+  I'm a Lecturer with the School of Information and Navigation, Air Force Engineering University. 
+  My research interests include  the uilization of AI in low-altitude intelligent networks.
   location         : "Xi'an, China"
   employer         : "AFEU"
   uri              : # URL
