@@ -23,7 +23,7 @@ repository               : "drzaxx/drzaxx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile01.jpg"
+  avatar           : "profile01.png"
   name             : "Runze Dong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
