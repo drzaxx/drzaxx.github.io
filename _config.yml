@@ -13,7 +13,7 @@ title                    : "Runze Dong"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://drzaxx.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drzaxx/drzaxx.github.io"
@@ -26,7 +26,8 @@ author:
   avatar           : "profile01.png"
   name             : "Runze Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'my a Lecturer with the School of Information and Navigation, Air Force\
+                    EngineeringUniversity. My research interests include low-altitude intelligent networks and the uilization of AI in UAV communications."
   location         : "Xi'an, China"
   employer         : "AFEU"
   uri              : # URL
@@ -84,8 +85,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+#  books:
+#    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
