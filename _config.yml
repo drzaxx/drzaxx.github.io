@@ -27,8 +27,8 @@ author:
   name             : "Runze Dong"
   pronouns         : # example: "she/her"  
   bio              : >
-  I'm a Lecturer with the School of Information and Navigation, Air Force Engineering University. 
-  My research interests include  the uilization of AI in low-altitude intelligent networks.
+    I'm a Lecturer with the School of Information and Navigation, Air Force Engineering University. 
+    My research interests include the uilization of AI in low-altitude intelligent networks.
   location         : "Xi'an, China"
   employer         : "AFEU"
   uri              : # URL
@@ -94,7 +94,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
+teaser                   : "teaser.jpg"# filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -304,7 +304,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
 
 # Plugins
